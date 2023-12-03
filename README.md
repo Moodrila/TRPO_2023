@@ -21,17 +21,13 @@
 
 2. Распакуйте архив в любую удобную папку.
 
-    ```bash
-    cd конвертер-месяцев
-    ```
-
 3. Найдите файл по следующему пути:
 
     ```bash
     C:\WinFormsApp1\bin\Debug\net6.0-windows
     ```
 4. Запустите exe файл:
-   WinFormsApp1.exe
+   `WinFormsApp1.exe`
 
 ## Использование
 
